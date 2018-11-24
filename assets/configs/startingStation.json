@@ -1,0 +1,10 @@
+{
+    "hull": "netheraxe:netheraxeStation",
+    "items": "netheraxe:spikeCannon netheraxe:spikeCannon",
+
+    "guard": {
+        "hull": "netheraxe:netheraxeLargeShip",
+        "items": "netheraxe:spikeCannon core:mediumArmor+core:heavyArmor core:shield+core:bigShield",
+        "density": 3
+    }
+}
