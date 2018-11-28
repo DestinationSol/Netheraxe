@@ -1,9 +1,9 @@
 {
-    "hull": "scyllas:netheraxeStation",
+    "hull": "scyllas:scyllasStation",
     "items": "scyllas:spikeCannon scyllas:spikeCannon",
 
     "guard": {
-        "hull": "scyllas:netheraxeLargeShip",
+        "hull": "scyllas:scyllasLargeShip",
         "items": "scyllas:spikeCannon core:mediumArmor+core:heavyArmor core:shield+core:bigShield",
         "density": 3
     }
