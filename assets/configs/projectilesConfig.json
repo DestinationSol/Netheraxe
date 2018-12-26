@@ -2,7 +2,7 @@
     "spike": {
         "dmg": 3,
         "dmgType": "energy",
-        "spdLen": 6,
+        "speed": 6,
         "tex": "scyllas:spike",
         "texSz": 0.15,
         "collisionEffect": {
